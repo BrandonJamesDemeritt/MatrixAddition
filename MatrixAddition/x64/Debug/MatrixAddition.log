@@ -1,0 +1,6 @@
+﻿  Matrix.cpp
+C:\School\Spring 2023\CPT-182 Programming with C++\Projects\MatrixAddition\MatrixAddition\Matrix.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+C:\School\Spring 2023\CPT-182 Programming with C++\Projects\MatrixAddition\MatrixAddition\Matrix.cpp(32,21): warning C4018: '<': signed/unsigned mismatch
+C:\School\Spring 2023\CPT-182 Programming with C++\Projects\MatrixAddition\MatrixAddition\Matrix.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+C:\School\Spring 2023\CPT-182 Programming with C++\Projects\MatrixAddition\MatrixAddition\Matrix.cpp(46,21): warning C4018: '<': signed/unsigned mismatch
+  MatrixAddition.vcxproj -> C:\School\Spring 2023\CPT-182 Programming with C++\Projects\MatrixAddition\x64\Debug\MatrixAddition.exe
